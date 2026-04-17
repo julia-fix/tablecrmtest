@@ -17,6 +17,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+task.txt
+googledoc.txt
+
 # env files
 .env
 .env.local
