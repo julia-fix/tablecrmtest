@@ -1,0 +1,3 @@
+display_name: TableCRM Mobile Order
+short_description: Build the mobile TableCRM sale-creation test app with Next.js, shadcn/ui, typed API boundaries, and a mobile-first flow.
+default_prompt: Implement or refine the TableCRM mobile order app using task.txt, AGENTS.md, and this skill's references.
